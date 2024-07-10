@@ -6,7 +6,7 @@ This script displays the current time in Glagolitic script within your tmux stat
 
 Requirements:
 
-* Python 3 / Bash
+* Python 3 or Bash
 * [dec2glag](https://github.com/slovjinika/dec2glag)
 
 Installation:
