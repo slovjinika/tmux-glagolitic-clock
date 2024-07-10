@@ -1,4 +1,4 @@
-![demo](tmux-glagolitic-clock.jpg)
+![demo](image-tmux-glagolitic-clock.jpg)
 
 ## Tmux Glagolitic Clock
 
